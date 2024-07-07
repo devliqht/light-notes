@@ -1,0 +1,2 @@
+# light-notes
+For school
